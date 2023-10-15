@@ -13,4 +13,4 @@
 
 Feel free to browse my repositories and reach out for collaboration or just to say hi! 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=terlan98&color=lightgrey)
+![Profile Views](https://komarev.com/ghpvc/?username=terlan98&color=lightgrey&style=flat-square)
