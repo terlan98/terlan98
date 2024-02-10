@@ -5,7 +5,7 @@
 ### About Me
 - 💻 Experienced in Swift, SwiftUI, and UIKit
 - 🎨 Interested in mobile UI/UX and enjoy experimenting with Figma
-- 🔭 Currently working on [SIMA](https://sima.az/en) and my [thesis project](https://github.com/ls1intum/Themis)
+- 🔭 Currently working on [SIMA](https://sima.az/en)
 - ⚡ Fun fact: I can debug in my sleep
 
 ### Let's Connect!
