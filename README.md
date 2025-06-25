@@ -5,7 +5,7 @@
 ### About Me
 - 💻 Experienced in Swift, SwiftUI, and UIKit
 - 🎨 Interested in mobile UI/UX and enjoy experimenting with Figma
-- 🔭 Currently working on [SIMA](https://sima.az/en)
+- 🔭 Currently working on [Azercell](https://apps.apple.com/kg/app/azercell/id1459102065) and [SIMA](https://apps.apple.com/us/app/si-ma-r%C9%99q%C9%99msal-i-mza/id1602500636)
 - ⚡ Fun fact: I can debug in my sleep
 
 ### Let's Connect!
